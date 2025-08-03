@@ -1,0 +1,6 @@
+shape_type,material,infill_density,layer_height,color,print_quality,height,width
+pyramid,PETG,80,0.21,red,high,40.979,33.576
+sphere,Nylon,32,0.31,black,low,105.093,98.018
+pyramid,PETG,16,0.27,blue,low,76.005,69.034
+cube,ABS,54,0.23,green,high,99.915,95.838
+pyramid,PETG,37,0.39,black,high,86.594,81.906
